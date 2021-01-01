@@ -18,3 +18,8 @@ let Calculator= {
   divide:function(a,b) {return a/b},
 
   }
+function actionApplyer(integer,Calculator){
+  if(Calculator=[]){
+    return integer
+  }
+}
